@@ -10,6 +10,7 @@ on:
       - '**.go'
       - 'vendor/**'
       - '.github/workflows/**'
+      - 'go.mod'
 
 jobs:
   builkd:
