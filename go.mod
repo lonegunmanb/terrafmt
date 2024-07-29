@@ -1,6 +1,6 @@
 module github.com/katbyte/terrafmt
 
-go 1.18
+go 1.22
 
 require (
 	github.com/gookit/color v1.5.1
